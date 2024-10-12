@@ -1,0 +1,29 @@
+{
+  "id": "dice-soup",
+  "title": "Dice Soup",
+  "version": "0.5.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Additional textures for Dice So Nice using images from Unsplash",
+  "authors": [
+    {
+      "name": "River",
+      "discord": "riverstyx1255",
+      "flags": {}
+    }
+  ],
+   "scripts": [
+      "scripts/textures.json"
+   ]
+}

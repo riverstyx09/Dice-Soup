@@ -1,0 +1,226 @@
+Hooks.on('diceSoNiceReady', (dice3d) => {
+
+	dice3d.addTexture("diamondback", {
+	    name: "🔮 Diamondback",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/diamondback.webp",
+	    bump: "modules/dice-soup/textures/diamondback.bmp"
+	});
+
+	dice3d.addTexture("etched", {
+	    name: "🔮 Etched",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/etched.webp",
+	    bump: "modules/dice-soup/textures/etched.bmp"
+	});
+
+	dice3d.addTexture("ice-cold-color", {
+	    name: "🔮 Ice Cold (🖌️)",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/ice_cold_colorable.webp"
+	});
+
+	dice3d.addTexture("ice-cold-2", {
+	    name: "🔮 Ice Cold 2",
+	    composite: "color_burn",
+	    source: "modules/dice-soup/textures/ice_cold_2.webp",
+	    bump: "modules/dice-soup/textures/ice_cold_2.bmp"
+	})
+	.then(() => {
+	dice3d.addColorset({
+	    name: 'ice_cs',
+	    description: "Ice and Waves",
+	    category: "🔮 Liquids",
+	    foreground: '#B0E9F2',
+	    background: '#BABABA',
+	    outline: '#000000',
+	    edge: '#777F92',
+	    texture: "ice-cold-2",
+	    material: 'glass'
+	});
+	});
+
+	dice3d.addTexture("ice-cold-2-color", {
+	    name: "🔮 Ice Cold 2 (🖌️)",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/ice_cold_2_colorable.webp",
+	    bump: "modules/dice-soup/textures/ice_cold_2.bmp"
+	});
+
+	dice3d.addTexture("ice-cold-3", {
+	    name: "🔮 Ice Cold 3",
+	    composite: "color_burn",
+	    source: "modules/dice-soup/textures/ice_cold_3.webp",
+	    bump: "modules/dice-soup/textures/ice_cold_3.bmp"
+	})
+	.then(() => {
+	dice3d.addColorset({
+	    name: 'frost_cs',
+	    description: "Liquid Frost",
+	    category: "🔮 Liquids",
+	    foreground: '#FFFFFF',
+	    background: '#999999',
+	    outline: '#000000',
+	    edge: '#999999',
+	    texture: "ice-cold-3",
+	    material: 'plastic'
+	});
+	});
+
+	dice3d.addTexture("ice-cold-3-color", {
+	    name: "🔮 Ice Cold 3 (🖌️)",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/ice_cold_3_colorable.webp",
+	    bump: "modules/dice-soup/textures/ice_cold_3.bmp"
+	});
+
+	dice3d.addTexture("leaf-imprints", {
+	    name: "🔮 Leaf Imprints",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/leafed.webp",
+	    bump: "modules/dice-soup/textures/leafed.bmp"
+	});
+
+	dice3d.addTexture("liquid-fire", {
+	    name: "🔮 Liquid Fire",
+	    composite: "color_burn",
+	    source: "modules/dice-soup/textures/liquid_fire.webp"
+	})
+	.then(() => {
+	dice3d.addColorset({
+	    name: 'liquid_fire_cs',
+	    description: "Liquid Fire",
+	    category: "🔮 Liquids",
+	    foreground: '#FFEOBD',
+	    background: '#BABABA',
+	    outline: '#000000',
+	    edge: '#000000',
+	    texture: "liquid-fire",
+	    material: 'wood'
+	});
+	});
+
+	dice3d.addTexture("liquid-fire-2", {
+	    name: "🔮 Liquid Fire 2",
+	    composite: "color_burn",
+	    source: "modules/dice-soup/textures/liquid_fire_2.webp"
+	})
+	.then(() => {
+	dice3d.addColorset({
+	    name: 'liquid_fire_2_cs',
+	    description: "Liquid Fire 2",
+	    category: "🔮 Liquids",
+	    foreground: '#FFEOBD',
+	    background: '#BABABA',
+	    outline: '#000000',
+	    edge: '#000000',
+	    texture: "liquid-fire-2",
+	    material: 'wood'
+	});
+	});
+
+	dice3d.addTexture("liquid-lava", {
+	    name: "🔮 Liquid Lava",
+	    composite: "color_burn",
+	    source: "modules/dice-soup/textures/liquid_lava.webp"
+	});
+
+	dice3d.addTexture("liquid-lava-colorable", {
+	    name: "🔮 Liquid Lava (🖌️)",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/liquid_lava_colorable.webp"
+	});
+
+	dice3d.addTexture("liquid-red", {
+	    name: "🔮 Liquid Red",
+	    composite: "color_burn",
+	    source: "modules/dice-soup/textures/liquid_red.webp"
+	});
+
+	dice3d.addTexture("liquid-red-colorable", {
+	    name: "🔮 Liquid Red (🖌️)",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/liquid_red_colorable.webp"
+	});
+
+	dice3d.addTexture("liquid-water", {
+	    name: "🔮 Liquid Water",
+	    composite: "color_burn",
+	    source: "modules/dice-soup/textures/liquid_water.webp"
+	});
+
+	dice3d.addTexture("liquid-water-2", {
+	    name: "🔮 Liquid Water 2",
+	    composite: "color_burn",
+	    source: "modules/dice-soup/textures/liquid_water_2.webp"
+	});
+
+	dice3d.addTexture("liquid-water-2-color", {
+	    name: "🔮 Liquid Water 2 (🖌️)",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/liquid_water_2_colorable.webp"
+	});
+
+	dice3d.addTexture("origami", {
+	    name: "🔮 Origami",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/origami.webp",
+	    bump: "modules/dice-soup/textures/origami.bmp"
+	});
+
+	dice3d.addTexture("royalty", {
+	    name: "🔮 Royalty",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/royalty.webp",
+	    bump: "modules/dice-soup/textures/royalty.bmp"
+	});
+
+	dice3d.addTexture("royalty-2", {
+	    name: "🔮 Royalty 2",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/royalty_2.webp",
+	    bump: "modules/dice-soup/textures/royalty_2.bmp"
+	});
+
+	dice3d.addTexture("royalty-3", {
+	    name: "🔮 Royalty 3",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/royalty_3.webp",
+	    bump: "modules/dice-soup/textures/royalty_3.bmp"
+	});
+
+	dice3d.addTexture("royalty-4", {
+	    name: "🔮 Royalty 4",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/royalty_4.webp",
+	    bump: "modules/dice-soup/textures/royalty_4.bmp"
+	});
+
+	dice3d.addTexture("royalty-5", {
+	    name: "🔮 Royalty 5",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/royalty_5.webp",
+	    bump: "modules/dice-soup/textures/royalty_5.bmp"
+	});
+
+	dice3d.addTexture("striped", {
+	    name: "🔮 Striped",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/striped.webp",
+	    bump: "modules/dice-soup/textures/striped.bmp"
+	});
+
+	dice3d.addTexture("succulent", {
+	    name: "🔮 Succulent",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/succulent.webp",
+	    bump: "modules/dice-soup/textures/succulent.bmp"
+	});
+
+	dice3d.addTexture("waves", {
+	    name: "🔮 Waves",
+	    composite: "multiply",
+	    source: "modules/dice-soup/textures/waves.webp",
+	    bump: "modules/dice-soup/textures/waves.bmp"
+	});
+});
