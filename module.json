@@ -10,8 +10,7 @@
     "requires": [
       {
         "id": "dice-so-nice",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       }
     ]
   },
@@ -19,7 +18,7 @@
   "authors": [
     {
       "name": "River",
-      "discord": "riverstyx1255",
+      "discord": "riverstyx1255"
     }
   ],
    "scripts": [
