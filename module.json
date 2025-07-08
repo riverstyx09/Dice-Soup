@@ -1,10 +1,10 @@
 {
   "id": "dice-soup",
   "title": "Dice Soup",
-  "version": "2.0",
+  "version": "2.1",
   "compatibility": {
     "minimum": "10",
-    "verified": "12"
+    "verified": "13"
   },
   "relationships": {
     "requires": [
@@ -21,10 +21,10 @@
       "discord": "riverstyx1255"
     }
   ],
-   "scripts": [
+   "esmodules": [
       "scripts/textures.js"
    ],
   "url": "https://github.com/riverstyx09/Dice-Soup",
   "manifest": "https://github.com/riverstyx09/Dice-Soup/raw/master/module.json",
-  "download": "https://github.com/riverstyx09/Dice-Soup/raw/master/download/v2.0/dice-soup.zip"
+  "download": "https://github.com/riverstyx09/Dice-Soup/raw/master/download/v2.1/dice-soup.zip"
 }
