@@ -1,7 +1,7 @@
 {
   "id": "dice-soup",
   "title": "Dice Soup",
-  "version": "2.1",
+  "version": "3.0",
   "compatibility": {
     "minimum": "10",
     "verified": "13"
@@ -14,7 +14,7 @@
       }
     ]
   },
-  "description": "A bowl of customizable options for Dice So Nice.",
+  "description": "🔮Customizable options for Dice So Nice",
   "authors": [
     {
       "name": "River",
@@ -26,5 +26,5 @@
    ],
   "url": "https://github.com/riverstyx09/Dice-Soup",
   "manifest": "https://github.com/riverstyx09/Dice-Soup/raw/master/module.json",
-  "download": "https://github.com/riverstyx09/Dice-Soup/raw/master/download/v2.1/dice-soup.zip"
+  "download": "https://github.com/riverstyx09/Dice-Soup/raw/master/download/v3.0/dice-soup.zip"
 }
