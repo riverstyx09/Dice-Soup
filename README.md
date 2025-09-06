@@ -1,12 +1,19 @@
-# 🔮 Dice Soup
+![dice samples](https://github.com/riverstyx09/Dice-Soup/blob/v3.0/dicesoup_banner.webp)
 
-![dice samples](https://github.com/riverstyx09/Dice-Soup/blob/master/dicesample.gif?raw=true)
+🔮 More customizable options for the Dice So Nice Module.
 
+## How to Apply
+Configure Settings -> Dice So Nice -> 3D Dice Settings ->
 
-36 textures, 
-5 systems, 
-and 
-6 color sets 
-added to the Dice So Nice Module from Unsplash.
+A. Dice Presets (Faces)
 
-![dice preview #1](https://github.com/riverstyx09/Dice-Soup/blob/master/dicesoup_previews.png?raw=true)
+B. Theme
+
+C. Texture
+
+## Dice Presets
+![dice preview](https://github.com/riverstyx09/Dice-Soup/blob/v3.0/dicesoup_cover.webp)
+![dice preview #3](https://github.com/riverstyx09/Dice-Soup/blob/v3.0/dicesoup_cover_3.webp)
+
+## Dice Textures
+![dice preview #2](https://github.com/riverstyx09/Dice-Soup/blob/v3.0/dicesoup_cover_2.webp)
