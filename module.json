@@ -25,7 +25,7 @@
       "scripts/textures.js"
    ],
    "media": [{
-      "type": "cover",
+      "type": "setup",
       "url": "https://github.com/riverstyx09/Dice-Soup/raw/master/dicesoup_banner.png"
     }
   ],
