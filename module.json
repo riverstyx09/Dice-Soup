@@ -26,7 +26,8 @@
    ],
    "media": [{
       "type": "setup",
-      "url": "https://github.com/riverstyx09/Dice-Soup/raw/master/dicesoup_banner.png"
+      "url": "https://github.com/riverstyx09/Dice-Soup/raw/master/dicesoup_banner.png",
+      "thumbnail": "https://github.com/riverstyx09/Dice-Soup/raw/master/dicesoup_banner.png"
     }
   ],
   "url": "https://github.com/riverstyx09/Dice-Soup",
