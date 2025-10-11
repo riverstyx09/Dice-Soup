@@ -13,6 +13,7 @@ C. Texture
 
 ## Dice Presets
 ![dice preview](https://github.com/riverstyx09/Dice-Soup/blob/master/dicesoup_cover.webp)
+![dice preview #3](https://github.com/riverstyx09/Dice-Soup/blob/master/dicesoup_cover_4.webp)
 ![dice preview #3](https://github.com/riverstyx09/Dice-Soup/blob/master/dicesoup_cover_3.webp)
 
 ## Dice Textures
