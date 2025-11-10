@@ -1,4 +1,4 @@
-![dice samples](https://github.com/riverstyx09/Dice-Soup/blob/master/image/dicesoup_banner.png)
+![dice banner](https://github.com/riverstyx09/Dice-Soup/blob/master/image/dicesoup_banner.png)
 
 🔮 More customizable options for the Dice So Nice Module.
 
