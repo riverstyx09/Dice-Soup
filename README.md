@@ -12,8 +12,8 @@ B. Theme
 C. Texture
 
 ## Dice Presets
-![dice preview](https://github.com/riverstyx09/Dice-Soup/blob/master/images/dicesoup_cover.webp)
-![dice preview #3](https://github.com/riverstyx09/Dice-Soup/blob/master/images/dicesoup_cover_3.webp)
+![dice preview](https://github.com/riverstyx09/Dice-Soup/blob/master/images/dicesoup_cover.jpg)
+![dice preview #3](https://github.com/riverstyx09/Dice-Soup/blob/master/images/dicesoup_cover_3.png)
 
 ## Dice Textures
-![dice preview #2](https://github.com/riverstyx09/Dice-Soup/blob/master/images/dicesoup_cover_2.webp)
+![dice preview #2](https://github.com/riverstyx09/Dice-Soup/blob/master/images/dicesoup_cover_2.png)
